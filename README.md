@@ -13,7 +13,7 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=azure906">
 
  - Kongju National University (2016. 03 ~ 2022. 02)
- - Kongju National University Network Security Lab (2019.06 ~ ing)
+ - Kongju National University Network Security Lab (2019. 06 ~ 2022. 02)
  - ICT Innovation Blockchain Expert Training Course (2021. 05 ~ 2021. 06)
 
  
