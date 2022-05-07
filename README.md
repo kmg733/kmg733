@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mink906@gmail.com)
 [![Blog Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://blog.naver.com/mang906)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=kmg733" height="155">
+[<img align='right' src="https://github-readme-stats.vercel.app/api?username=kmg733" height="155">](https://github.com/kmg733)
 
 ### Who Am I
 - 🧡 I'm Backend Server Developer.
