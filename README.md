@@ -10,7 +10,7 @@
  - 📕 I'm currently learning `Spring Boot`, `Docker`, `AWS`.
  - 🌏 I live in Daejeon City.
 ### Experience
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=azure906">
+[<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=azure906">](https://solved.ac/profile/azure906)
 
  - Kongju National University (2016. 03 ~ 2022. 02)
  - Kongju National University Network Security Lab (2019. 06 ~ 2022. 02)
