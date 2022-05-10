@@ -25,5 +25,5 @@
 
 </br>
 
-[![GitHub stat](https://github-readme-stats.vercel.app/api?username=kmg733)](https://github.com/kmg733)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=azure906)](https://solved.ac/profile/azure906)
+[![GitHub stat](https://github-readme-stats.vercel.app/api?username=kmg733)](https://github.com/kmg733)
