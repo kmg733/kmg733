@@ -2,8 +2,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mink906@gmail.com)
 [![Blog Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://blog.naver.com/mang906)
 
-[<img align='right' src="https://github-readme-stats.vercel.app/api?username=kmg733" height="300" width="440">](https://github.com/kmg733)
-
 ### Who Am I
 - 🧡 I'm Backend Server Developer.
  - 🎓 I majored in Computer Science and Engineering.
@@ -11,14 +9,10 @@
  - 🌏 I live in Daejeon City.
 ### Experience
 
-
  - Kongju National University (2016. 03 ~ 2022. 02)
  - Kongju National University Network Security Lab (2019. 06 ~ 2022. 02)
  - ICT Innovation Blockchain Expert Training Course (2021. 05 ~ 2021. 06)
 
-[<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=azure906" height="200" width="400">](https://solved.ac/profile/azure906)
-
- 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
@@ -28,3 +22,9 @@
 ### Framework
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+
+</br>
+</br>
+
+[![GitHub stat](https://github-readme-stats.vercel.app/api?username=kmg733)](https://github.com/kmg733)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=azure906)](https://solved.ac/profile/azure906)
