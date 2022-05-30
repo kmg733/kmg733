@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkmg733&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mink906@gmail.com)
-[![Blog Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://blog.naver.com/mang906)
+[![Blog Badge](https://img.shields.io/badge/-Tech%20Blog-%2303C75A?style=flat-square&logo=Naver&logoColor=white)](https://blog.naver.com/mang906)
 
 ### Who Am I
 - 🧡 I'm Backend Server Developer.
