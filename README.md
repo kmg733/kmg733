@@ -31,7 +31,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white)](https://gitlab.com/)
 
----
+<bR>
 
 ## 📊 GitHub Stats
 
@@ -40,7 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmg733&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
----
+<br>
 
 ## 📫 Contact
 
