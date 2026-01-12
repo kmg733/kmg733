@@ -1,29 +1,52 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkmg733&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mink906@gmail.com)
-[![Blog Badge](https://img.shields.io/badge/-Tech%20Blog-%2303C75A?style=flat-square&logo=Naver&logoColor=white)](https://blog.naver.com/mang906)
+## 👋 Hello! I'm MinGyu
+### 🚀 A Developer Aspiring to Become a Full-Stack Developer
 
-### Who Am I
-- 🧡 I'm Backend Server Developer.
- - 🎓 I majored in Computer Science and Engineering.
- - 📕 I'm currently learning `Spring Boot`, `Docker`, `AWS`.
- - 🌏 I live in Daejeon City.
-### Experience
+<br>
 
- - Kongju National University (2016. 03 ~ 2022. 02)
- - Kongju National University Network Security Lab (2019. 06 ~ 2022. 02)
- - ICT Innovation Blockchain Expert Training Course (2021. 05 ~ 2021. 06)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkmg733&count_bg=%236DB33F&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=true)](https://github.com/kmg733)
 
-### Languages
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
-![MySQL](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
+---
 
-### Framework
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+## 🙋‍♂️ About Me
 
-</br>
+- 🎯 Constantly growing to become a full-stack developer
+- 💻 Building experience from backend to frontend development
+- 📚 Love learning and applying new technologies
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=azure906)](https://solved.ac/profile/azure906)
-[![GitHub stat](https://github-readme-stats.vercel.app/api?username=kmg733)](https://github.com/kmg733)
+---
+
+## 🛠️ Tech Stack
+
+### 💬 Languages
+[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+### 🧩 Frameworks & Libraries
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=Spring%20Security&logoColor=white)](https://spring.io/projects/spring-security)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)](https://getbootstrap.com/)
+
+### 🗄️ Databases
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)](https://mariadb.org/)
+
+### 🔧 Tools & Environment
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white)](https://gitlab.com/)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kmg733&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmg733&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+---
+
+## 📫 Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:mink906@gmail.com)
+[![GitHub](https://img.shields.io/badge/kmg733-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/kmg733)
