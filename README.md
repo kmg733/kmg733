@@ -3,17 +3,13 @@
 
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkmg733&count_bg=%236DB33F&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=true)](https://github.com/kmg733)
-
----
-
 ## 🙋‍♂️ About Me
 
 - 🎯 Constantly growing to become a full-stack developer
 - 💻 Building experience from backend to frontend development
 - 📚 Love learning and applying new technologies
 
----
+<br>
 
 ## 🛠️ Tech Stack
 
